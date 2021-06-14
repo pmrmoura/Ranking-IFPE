@@ -14,54 +14,53 @@ Nesse contexto, o grande número de funções desempenhadas pelos órgãos (que 
 
 ## Checklist
 ### 1º Ciclo: Preparação e Planejamento
-- [x] [Entrevista Para Elicitação das características de um processo de negócio](/GPN/Elicitação_de_Características_do_Processo_Entrevista.pdf) (09/02/2021)
-- [x] Reunião com stakeholders (11/02/2021) 
-- [x] [Formulário descrição do problema](/SGE/problem-description.md) (14/02/2021)
-- [x] [Canvas do Projeto](/PGP/Canvas.jpeg)
-- [x] [Termo de Abertura](/PGP/Termo_De_Abertura.pdf) (18/02/2021)
-- [x] [Apresentação Kickoff](/SGE/Kick-Off_Apresentação.pdf) (18/02/2021)
-- [x] Criação do Github (18/02/2021)
-- [x] Criação do Trello (20/02/2021)
-- [x] Avaliação 360º (22/02/2021)
+- [] Reunião com stakeholders (11/02/2021) 
+- [] [Formulário descrição do problema](/SGE/problem-description.md) (14/02/2021)
+- [] [Canvas do Projeto](/PGP/Canvas.jpeg)
+- [] [Termo de Abertura](/PGP/Termo_De_Abertura.pdf) (18/02/2021)
+- [] [Apresentação Kickoff](/SGE/Kick-Off_Apresentação.pdf) (18/02/2021)
+- [] Criação do Github (18/02/2021)
+- [] Criação do Trello (20/02/2021)
+- [] Avaliação 360º (22/02/2021)
 
 ### 2º Ciclo: Entedimento do Problema e Análise da Solução
-- [x] Gerenciando os Fatores Críticos de Sucesso do seu projeto. (25/02/2021)
-- [x] Modelagem de Processos de Negócio com BPMN.
-- [x] [Modelo do processo de negócio AS-IS](/GPN/BPMN_Matrícula_Presencial.pdf) (09/03/2021)
-- [x] [Elaboração 1º Status Report](/SGE/1º_Status_Report.pdf) (09/03/2021)
-- [x] Apresentação 1º Status Report (11/03/2021)
-- [x] Avaliação 360º (11/03/2021)
+- [] Gerenciando os Fatores Críticos de Sucesso do seu projeto. (25/02/2021)
+- [] Modelagem de Processos de Negócio com BPMN.
+- [] [Modelo do processo de negócio AS-IS](/GPN/BPMN_Matrícula_Presencial.pdf) (09/03/2021)
+- [] [Elaboração 1º Status Report](/SGE/1º_Status_Report.pdf) (09/03/2021)
+- [] Apresentação 1º Status Report (11/03/2021)
+- [] Avaliação 360º (11/03/2021)
 
 #### Documentação:
 
-- [x] [Matriz de Risco e Probabilidade](/PGP/Matriz_de_Risco_e_Probabilidade.pdf)
-- [x] [Plano de Gerenciamento das Comunicações](/PGP/Plano_Gerenciamento_das_comunicações.pdf)
-- [x] [Declaração do Escopo do Projeto](/PGP/Declaração_Do_Escopo_Do_Projeto.pdf)
-- [x] [Identificação dos Envolvidos](/PGP/Gerência_das_partes_Interessadas.pdf)
-- [x] [Matriz de Responsabilidades](/PGP/Matriz_de_Responsabilidades.pdf)
+- [] [Matriz de Risco e Probabilidade](/PGP/Matriz_de_Risco_e_Probabilidade.pdf)
+- [] [Plano de Gerenciamento das Comunicações](/PGP/Plano_Gerenciamento_das_comunicações.pdf)
+- [] [Declaração do Escopo do Projeto](/PGP/Declaração_Do_Escopo_Do_Projeto.pdf)
+- [] [Identificação dos Envolvidos](/PGP/Gerência_das_partes_Interessadas.pdf)
+- [] [Matriz de Responsabilidades](/PGP/Matriz_de_Responsabilidades.pdf)
 
 ### 3º Ciclo: Design da Solução:
-- [x] Mapeamento de stakeholders RACI e Matriz de Interesse/Poder
-- [x] Modelo do processo de negócio TO-BE
-- [x] [Diagrama Ishikawa](/GPN/Diagrama_Ishikawa.pdf)
-- [x] [Diagrama iStar](/GPN/Diagrama_iStar.png)
-- [x] [Plano de Gerenciamento de Cronograma](/PGP/Plano_de_Gerenciamento_de_Cronograma.pdf)
-- [x] [Plano de Gerenciamento de Escopo](/PGP/Plano_de_Gerenciamento_de_Escopo.pdf)
-- [x] [Plano de Gerenciamento de Requisitos do Produto](/PGP/Plano_de_Requisitos_Do_Produto.pdf)
-- [x] [Plano de Gerenciamento de Comunicações](/PGP/Plano_de_Gerenciamento_de_Comunicações.pdf)
-- [x] [Estrutura Analítica do Projeto | EAP](/PGP/EAP.pdf)
-- [x] [2º Status Report](/SGE/2º_Status_Report.pdf) (08/04/2021)
-- [x] Avaliação 360º
+- [] Mapeamento de stakeholders RACI e Matriz de Interesse/Poder
+- [] Modelo do processo de negócio TO-BE
+- [] [Diagrama Ishikawa](/GPN/Diagrama_Ishikawa.pdf)
+- [] [Diagrama iStar](/GPN/Diagrama_iStar.png)
+- [] [Plano de Gerenciamento de Cronograma](/PGP/Plano_de_Gerenciamento_de_Cronograma.pdf)
+- [] [Plano de Gerenciamento de Escopo](/PGP/Plano_de_Gerenciamento_de_Escopo.pdf)
+- [] [Plano de Gerenciamento de Requisitos do Produto](/PGP/Plano_de_Requisitos_Do_Produto.pdf)
+- [] [Plano de Gerenciamento de Comunicações](/PGP/Plano_de_Gerenciamento_de_Comunicações.pdf)
+- [] [Estrutura Analítica do Projeto | EAP](/PGP/EAP.pdf)
+- [] [2º Status Report](/SGE/2º_Status_Report.pdf) (08/04/2021)
+- [] Avaliação 360º
 
 ### 4º Ciclo: Entrega da Solução:
-- [x] Mapeamento entre Solução e Valores de negócio
-- [x] Modelo do processo de negócio i* e BPMN TO-BE
-- [x] Plano de Processo final do projeto
-- [x] Indicadores de desempenho do processo
-- [x] [Elaboração Final Report](/SGE/3º_Status_Report.pdf)
-- [x] Apresentação Final Report (29/04/2021)
-- [x] Diário de atividades
-- [x] Avaliação 360º
+- [] Mapeamento entre Solução e Valores de negócio
+- [] Modelo do processo de negócio i* e BPMN TO-BE
+- [] Plano de Processo final do projeto
+- [] Indicadores de desempenho do processo
+- [] [Elaboração Final Report](/SGE/3º_Status_Report.pdf)
+- [] Apresentação Final Report (29/04/2021)
+- [] Diário de atividades
+- [] Avaliação 360º
 
 ## Stakeholders
 ### Cliente
@@ -69,17 +68,15 @@ Nesse contexto, o grande número de funções desempenhadas pelos órgãos (que 
 * **Comunidade Acadêmica do IFPE** - *Servidores e Discentes*
 
 ### Consultoria
-* **Carla Silva** - *Gestão de Processos de Negócio*
+* **Jéssyka Vilela** - *Gestão de Processos de Negócio*
 * **Simone Santos** - *Sistemas de Gestão Empresarial*
 * **Alexandre Vasconcelos** - *Planejamento de Gerenciamento de Projetos*
 
 ### Equipe
-* **Matheus do Nascimento** - *Lider de Projetos* — [mna2](https://github.com/mna2)
-* **Wilson Wagner** - *Assistente de Projetos* — [wilsonwagner](https://github.com/wilsonwagner)
-* **Gabriel Oliveira** - *Programador* — [bihellzin](https://github.com/bihellzin)
-* **Gustavo Nogueira** - *Programador* — [gustavogno17](https://github.com/gustavogno17)
-* **Maurício Felipe** - *Modelador* — [MauricioFGF](https://github.com/MauricioFGF)
-* **Guilherme Guerra** - *Modelador* — [guilhermeguerrac](https://github.com/guilhermeguerrac)
-* **Renato Gabriel** - *Modelador* — [Renabouj](https://github.com/Renabouj)
+* **Luiz Felipe Accioly** - *Gerente de Projetos* — [mna2](https://github.com/mna2)
+* **Isabela Carneiro Leão Menezes** - *Assistente de Projetos* — [wilsonwagner](https://github.com/wilsonwagner)
+* **Pedro da Matta** - *Programador* — [bihellzin](https://github.com/bihellzin)
+* **Danilo Lima** - *Programador* — [gustavogno17](https://github.com/gustavogno17)
+* **Felipe de Carvalho Vasconcelos** - *Modelador* — [MauricioFGF](https://github.com/MauricioFGF)
 
-### Link para o [Trello](https://trello.com/b/PJvMYzOw/pgp)
+### Link para o [Trello](https://trello.com/b/CE8G0vi1/gerenciamento-do-projeto-de-ranking-ifpe)
