@@ -13,13 +13,13 @@ Nesse contexto, diante da realidade imposta pelo avanço tecnológico e pandemia
 ## Checklist
 ### 1º Ciclo: Preparação e Planejamento
 
-- [] Reunião com o cliente (10/06/2021)
-- [] Formulário de descrição do problema (11/06/2021)
-- [] Criação do Github (11/06/2021)
-- [] Criação do Trello (11/06/2021)
-- [] Termo de abertura (12/06/2021)
-- [] Apresentação kick-off (17/06/2021)
-- [] Avaliação 360 (data à definir)
+- [x] Reunião com o cliente (10/06/2021)
+- [x] Formulário de descrição do problema (11/06/2021)
+- [x] Criação do Github (11/06/2021)
+- [x] Criação do Trello (11/06/2021)
+- [x] Termo de abertura (12/06/2021)
+- [ ] Apresentação kick-off (17/06/2021)
+- [ ] Avaliação 360 (data à definir)
 
 ## Stakeholders
 ### Cliente
