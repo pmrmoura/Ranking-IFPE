@@ -21,6 +21,12 @@ Nesse contexto, diante da realidade imposta pelo avanço tecnológico e pandemia
 - [ ] Apresentação kick-off (17/06/2021)
 - [ ] Avaliação 360 (data à definir)
 
+### 2º Ciclo: à definir
+
+### 3º Ciclo: à definir
+
+### 4º Ciclo: à definir
+
 ## Stakeholders
 ### Cliente
 * **Marco Eugênio** - *Professor e Diretor de Avaliação e Desenvolvimento de Tecnologias do IFPE*
