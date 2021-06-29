@@ -1,4 +1,4 @@
-# Ranking Acadêmico do IFPE
+# Sistema de Avaliação do IFPE
 O projeto visa identificar, analisar pontos de melhoria e propor novas formas de fomentar a interação entre os usuários finais (professores e alunos) e o cliente (Registro Acadêmico do Instituto Federal de Pernambuco).
 
 ## VISÃO GERAL
