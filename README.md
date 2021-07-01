@@ -17,9 +17,9 @@ Nesse contexto, diante da realidade imposta pelo avanço tecnológico e pandemia
 - [x] Formulário de descrição do problema (11/06/2021)
 - [x] Criação do Github (11/06/2021)
 - [x] Criação do Trello (11/06/2021)
-- [x] Termo de abertura (12/06/2021)
-- [ ] Apresentação kick-off (17/06/2021)
-- [ ] Avaliação 360 (data à definir)
+- [x] Termo de abertura(https://github.com/pmrmoura/Ranking-IFPE/blob/main/PGP/Termo%20de%20Abertura.pdf) (12/06/2021)
+- [x] Apresentação kick-off(https://github.com/pmrmoura/Ranking-IFPE/blob/main/SGE/KICK-OFF.pdf) (17/06/2021)
+- [x] Avaliação 360 (01/07/2021)
 
 ### 2º Ciclo: à definir
 
