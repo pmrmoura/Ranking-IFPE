@@ -31,20 +31,17 @@ Nesse contexto, diante da realidade imposta pelo avanço tecnológico e pandemia
 - [x] [Apresentação do 1º Status report](https://github.com/pmrmoura/Ranking-IFPE/blob/main/SGE/Primeiro%20Status%20Report%20-%20Slide.pdf)
 
 ### 2º Status Report
-- [ ] [Modelo BPMN AS-IS corrigido]
-- [ ] [Resultados da análise do processo]
-- [ ] [3 diagramas de Ishikawa]
-- [ ] [Modelo i * do processo TO-BE]
-- [ ] [Modelo BPMN do processo TO-BE]
-- [ ] [Indicadores: 2 indicadores de resultado e 2 indicadores de processo.]
-- [ ] [Apresentação do 2º Status Report]
-- [ ] [Status report]
-- [ ] [EAP]
-- [ ] [Lista de requisitos]
-- [ ] [Plano de gestão do escopo]
-- [ ] [Cronograma]
-- [ ] [Plano de gestão do tempo]
-- [ ] [Apresentação do 2º Status Report]
+- [x] [Modelo BPMN AS-IS corrigido](https://github.com/pmrmoura/Ranking-IFPE/blob/main/GPN/bpmn%20asis.png)
+- [x] [Resultados da análise do processo](https://github.com/pmrmoura/Ranking-IFPE/blob/main/GPN/Análise%20do%20Processo.pdf)
+- [x] [3 diagramas de Ishikawa](https://github.com/pmrmoura/Ranking-IFPE/tree/main/GPN/Ishikawa)
+- [x] [Modelo i * do processo AS-IS](https://github.com/pmrmoura/Ranking-IFPE/blob/main/GPN/istar%20AS-IS.png)
+- [x] [Modelo i * do processo TO-BE](https://github.com/pmrmoura/Ranking-IFPE/blob/main/GPN/istar%20TO-BE%20Ajustado.png)
+- [x] [Modelo BPMN do processo TO-BE](https://github.com/pmrmoura/Ranking-IFPE/blob/main/GPN/bpmn%20tobe.png)
+- [x] [EAP](https://github.com/pmrmoura/Ranking-IFPE/blob/main/PGP/EAP.pdf)
+- [x] [Lista de requisitos](https://github.com/pmrmoura/Ranking-IFPE/blob/main/PGP/Gerência%20de%20Escopo_Requisitos%20do%20produto.pdf)
+- [x] [Plano de gestão do escopo](https://github.com/pmrmoura/Ranking-IFPE/blob/main/PGP/Gerencia%20de%20Escopo.pdf)
+- [x] [Plano de gestão do tempo](https://github.com/pmrmoura/Ranking-IFPE/blob/main/PGP/Gerência%20de%20Tempo_Plano%20de%20Gerenciamento%20de%20Cronograma.pdf)
+- [x] [Apresentação do 2º Status Report](https://github.com/pmrmoura/Ranking-IFPE/blob/main/PGP/Slide%20-%202%20status%20report.pdf)
 
 ### Entrega Final
 - [ ] [Termo de Encerramento]
