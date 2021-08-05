@@ -11,7 +11,7 @@ Nesse contexto, diante da realidade imposta pelo avanço tecnológico e pandemia
 
 
 ## Checklist
-### 1º Ciclo: Preparação e Planejamento
+### Kickoff
 
 - [x] Reunião com o cliente (10/06/2021)
 - [x] Formulário de descrição do problema (11/06/2021)
@@ -21,11 +21,38 @@ Nesse contexto, diante da realidade imposta pelo avanço tecnológico e pandemia
 - [x] [Apresentação kick-off](https://github.com/pmrmoura/Ranking-IFPE/blob/main/SGE/KICK-OFF.pdf) (17/06/2021)
 - [x] Avaliação 360 (01/07/2021)
 
-### 2º Ciclo: à definir
+## 1º Status Report
+- [x] [Status Report](https://github.com/pmrmoura/Ranking-IFPE/blob/main/PGP/Status%20Report.pdf)
+- [x] [Declaração de escopo preliminar](https://github.com/pmrmoura/Ranking-IFPE/blob/main/PGP/Declaração%20de%20Escopo%20Preliminar.pdf)
+- [x] [Plano de RH](https://github.com/pmrmoura/Ranking-IFPE/blob/main/PGP/Plano%20de%20RH.pdf)
+- [x] [Plano de Comunicação](https://github.com/pmrmoura/Ranking-IFPE/blob/main/PGP/Plano%20de%20Comunicações.pdf)
+- [x] [Matriz SIPOC](https://github.com/pmrmoura/Ranking-IFPE/blob/main/GPN/Matriz%20SIPOC.png)
+- [x] [Modelo BPMN do processo AS-IS](https://github.com/pmrmoura/Ranking-IFPE/blob/main/GPN/Modelo%20BMPN.png)
+- [x] [Apresentação do 1º Status report](https://github.com/pmrmoura/Ranking-IFPE/blob/main/SGE/Primeiro%20Status%20Report%20-%20Slide.pdf)
 
-### 3º Ciclo: à definir
+### 2º Status Report
+- [ ] [Modelo BPMN AS-IS corrigido]
+- [ ] [Resultados da análise do processo]
+- [ ] [3 diagramas de Ishikawa]
+- [ ] [Modelo i * do processo TO-BE]
+- [ ] [Modelo BPMN do processo TO-BE]
+- [ ] [Indicadores: 2 indicadores de resultado e 2 indicadores de processo.]
+- [ ] [Apresentação do 2º Status Report]
+- [ ] [Status report]
+- [ ] [EAP]
+- [ ] [Lista de requisitos]
+- [ ] [Plano de gestão do escopo]
+- [ ] [Cronograma]
+- [ ] [Plano de gestão do tempo]
+- [ ] [Apresentação do 2º Status Report]
 
-### 4º Ciclo: à definir
+### Entrega Final
+- [ ] [Termo de Encerramento]
+- [ ] [Relatório de post-mortem/lições aprendidas no projeto]
+- [ ] [Orçamento/plano de custos]
+- [ ] [Plano de riscos/lista de riscos]
+- [ ] [Plano de qualidade/critérios de aceitação do produto]
+- [ ] [Apresentação Final]
 
 ## Stakeholders
 ### Cliente
