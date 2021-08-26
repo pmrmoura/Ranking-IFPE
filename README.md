@@ -44,12 +44,15 @@ Nesse contexto, diante da realidade imposta pelo avanço tecnológico e pandemia
 - [x] [Apresentação do 2º Status Report](https://github.com/pmrmoura/Ranking-IFPE/blob/main/PGP/Slide%20-%202%20status%20report.pdf)
 
 ### Entrega Final
-- [ ] [Termo de Encerramento]
-- [ ] [Relatório de post-mortem/lições aprendidas no projeto]
-- [ ] [Orçamento/plano de custos]
-- [ ] [Plano de riscos/lista de riscos]
-- [ ] [Plano de qualidade/critérios de aceitação do produto]
-- [ ] [Apresentação Final]
+- [x] [Termo de Encerramento](https://github.com/pmrmoura/Ranking-IFPE/blob/main/PGP/Termo%20de%20Encerramento.png)
+- [x] [Relatório de post-mortem/lições aprendidas no projeto](https://github.com/pmrmoura/Ranking-IFPE/blob/main/PGP/Relatório%20de%20Licoes%20Aprendidas%20-%20PGP%20-%203%20STATUS%20REPORT.pdf)
+- [x] [Orçamento/plano de custos](https://github.com/pmrmoura/Ranking-IFPE/blob/main/PGP/Plano%20de%20Gerenciamento%20de%20Riscos.pdf)
+- [x] [Plano de riscos/lista de riscos](https://github.com/pmrmoura/Ranking-IFPE/blob/main/PGP/Gerência%20de%20Custos_Plano%20de%20Gerenciamento%20de%20custos%20do%20projeto.odt)
+- [x] [Plano de qualidade/critérios de aceitação do produto](https://github.com/pmrmoura/Ranking-IFPE/blob/main/PGP/Gerência%20da%20Qualidade_Plano%20de%20Controle%20da%20Qualidade%20do%20projeto%20(1).pdf)
+- [x] [Apresentação Final](https://github.com/pmrmoura/Ranking-IFPE/blob/main/PGP/3°%20Status%20Report.pdf)
+- [x] [BPMN AS-IS versão final](https://github.com/pmrmoura/Ranking-IFPE/blob/main/GPN/BPMN%20AS-iS%20-%20FInal.png)
+- [x] [BPMN TO-BE versão final(https://github.com/pmrmoura/Ranking-IFPE/blob/main/GPN/BPMN%20TO-BE%20-%20Final.png)
+- [x] [Documento de processo de negócio final](https://github.com/pmrmoura/Ranking-IFPE/blob/main/GPN/Processo%20de%20negócio%20-%20Versão%20final.pdf)
 
 ## Stakeholders
 ### Cliente
