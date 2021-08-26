@@ -51,7 +51,7 @@ Nesse contexto, diante da realidade imposta pelo avanço tecnológico e pandemia
 - [x] [Plano de qualidade/critérios de aceitação do produto](https://github.com/pmrmoura/Ranking-IFPE/blob/main/PGP/Gerência%20da%20Qualidade_Plano%20de%20Controle%20da%20Qualidade%20do%20projeto%20(1).pdf)
 - [x] [Apresentação Final](https://github.com/pmrmoura/Ranking-IFPE/blob/main/PGP/3°%20Status%20Report.pdf)
 - [x] [BPMN AS-IS versão final](https://github.com/pmrmoura/Ranking-IFPE/blob/main/GPN/BPMN%20AS-iS%20-%20FInal.png)
-- [x] [BPMN TO-BE versão final(https://github.com/pmrmoura/Ranking-IFPE/blob/main/GPN/BPMN%20TO-BE%20-%20Final.png)
+- [x] [BPMN TO-BE versão final](https://github.com/pmrmoura/Ranking-IFPE/blob/main/GPN/BPMN%20TO-BE%20-%20Final.png)
 - [x] [Documento de processo de negócio final](https://github.com/pmrmoura/Ranking-IFPE/blob/main/GPN/Processo%20de%20negócio%20-%20Versão%20final.pdf)
 
 ## Stakeholders
